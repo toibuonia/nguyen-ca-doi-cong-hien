@@ -1,4 +1,4 @@
-![Animated Background](https://i.imgur.com/ECZKmlO.gif)
+![Animated Background](https://cdn.discordapp.com/attachments/1243892759329505393/1438911189794164847/standard_5.gif?ex=691899f9&is=69174879&hm=30dc34c6a5a4d9c388af464481f0d1178036f65624ff60c17feeafcaf6aac4de&)
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
   UltimateMusic 1.0.0
@@ -17,22 +17,22 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/@GlaceYT">
+  <a href="https://www.youtube.com/channel/@dungsenpai">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube"
       alt="YouTube" />
   </a>
 
-  <a href="https://discord.gg/xQF9f9yUEM">
+  <a href="https://discord.gg/dungsenpai">
     <img src="https://img.shields.io/badge/Discord-Join-blue?style=flat-square&logo=discord"
       alt="Join Discord" />
   </a>
 
-  <a href="https://www.instagram.com/glaceytt">
+  <a href="https://www.instagram.com/tentaolabinh">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram"
       alt="Instagram" />
   </a>
 
-  <a href="https://www.facebook.com/youulewd/">
+  <a href="https://www.facebook.com/YuuIride/">
     <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook"
       alt="Facebook" />
   </a>
