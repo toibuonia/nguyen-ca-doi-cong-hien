@@ -10,7 +10,7 @@
       alt="License: MIT" />
   </a>
 
-  <a href="https://www.paypal.me/@GlaceYT">
+  <a href="https://mid-chocolate-ebswzotczw.edgeone.app/1763176700425.jpg">
     <img src="https://img.shields.io/badge/Donate-PayPal-0079C1?style=flat-square&logo=paypal"
       alt="Donate" />
   </a>
