@@ -1,4 +1,4 @@
-![Animated Background](https://cdn.discordapp.com/attachments/1243892759329505393/1438911189794164847/standard_5.gif?ex=691899f9&is=69174879&hm=30dc34c6a5a4d9c388af464481f0d1178036f65624ff60c17feeafcaf6aac4de&)
+![Animated Background](https://cheap-beige-uznpddqsq9.edgeone.app/standard%20(5).gif)
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
   DuBot Mini Music
